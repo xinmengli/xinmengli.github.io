@@ -6,15 +6,15 @@
 I am _Xinmeng Li_, a graduate student at Computer Science Department, Tufts University. 
 
 
-My research focus is in `bioinformatics and data science`. 
+My research focus is in `bioinformatics and data science`. Here is my [resume](https://xinmengli.github.io/cv.pdf)
 
 
 ```markdown
-I will update this website soon. Here is my [resume](https://xinmengli.github.io/cv.pdf)
+I will update this website soon.
 ```
 
 
-Thank you so much for visiting!
+Thank you so much for visiting! 
 
 
 ![Image](https://xinmengli.github.io/1.png)
