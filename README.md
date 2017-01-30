@@ -29,10 +29,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](xinmengli.github.io/1.png)
+[Link](https://xinmengli.github.io/1.png)and ![Image](https://xinmengli.github.io/1.png)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://xinmengli.github.io/1.png).
 
 ### Jekyll Themes
 
