@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Xinmeng Li"
+title: "Hi"
 ---
 
 <div class="tiles">
