@@ -1,12 +1,11 @@
 ---
 layout: archive
 permalink: /
-title: "Xinmeng Li"
+title: "Xinmeng"
 ---
 
 <div class="tiles">
 {% for post in site.posts %}
 	{% include post-grid.html %}
 {% endfor %}
-hello
 </div><!-- /.tiles -->
